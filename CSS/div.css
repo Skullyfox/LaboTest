@@ -1,0 +1,27 @@
+.Accueil{
+    height: 676px;
+    text-align: center;
+}
+
+.Accueil #titre{
+    color: #333;
+    font-size: 45px;
+    font-family: sans-serif;
+    margin: 0;
+    position: absolute;
+    left: 50%;
+    top : 50%;
+    transform: translate(-50%,-50%);
+}
+
+.Accueil #soustitre {
+    color: #333;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin: 0;
+}
+
+.test{
+background-color: #e6e6e6;
+    height: 676px;
+}

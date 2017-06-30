@@ -1,0 +1,17 @@
+html, body{
+    
+    background: url('img/Fond.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    
+    min-height: 100%;
+    min-width: 100%;
+    margin: 0;
+    
+}
+
+.corp{
+    display: block;
+    height: 100%;
+}
